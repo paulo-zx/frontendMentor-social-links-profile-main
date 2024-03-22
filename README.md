@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile
 
-SITE ACESS:
+URL ENTRY:
 
 https://paulo-frontend-social-links-profile.netlify.app/
 
